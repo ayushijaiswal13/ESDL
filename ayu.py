@@ -1,2 +1,5 @@
 print "hi.....!!!"
-this is a list commit in ayu in master branch
+this is a 2nd commit
+lets learn python
+print 3+2
+print 3/2
